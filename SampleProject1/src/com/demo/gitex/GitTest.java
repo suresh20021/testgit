@@ -6,7 +6,8 @@ public class GitTest {
 		// TODO Auto-generated method stub
 System.out.println("My Second git");
 System.out.println("My Second git update");
-System.out.println("Want to pull code");		
+System.out.println("Want to pull code");
+System.out.println("Want to pull code second time");
 
 	}
 
